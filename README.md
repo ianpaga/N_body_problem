@@ -2,8 +2,10 @@ N-body simulation of our solar system with 8 planets and 2 Trojans in orbit
 ====
 
 Description: Main program N_body_problem.m  simulates the positions and velocities of 8 planets and 2 Trojans orbiting the Sun. 
-The main feautures of this program are the Runge-Kutta algorithm and the function called g_functions. 
+The main features of this program are the Runge-Kutta algorithm and the function called g_functions. 
 The latter computes the total force acting on all particles and then passes it on to the Runge-Kutta update rule to predict the next iteration element.
+
+Units of time are years and units of distance are Astronomical Units AU. 1 AU = 149597870700 km which represents the average distance between Earth & Sun.
 
 ## Figures:
 
