@@ -15,7 +15,6 @@ The latter computes the total force acting on all particles and then passes it o
 ![trojans_solarsystem](https://github.com/ianpaga/N_body_problem/assets/57350668/516d7f58-c715-46dc-a5de-cd9bc6ea2402)
 ![x_distance](https://github.com/ianpaga/N_body_problem/assets/57350668/6501392e-c090-4d03-af9a-83bba9d5def7)
 ![x_distance2](https://github.com/ianpaga/N_body_problem/assets/57350668/f0ac4e7d-faa9-44cb-8c67-de30c18301a8)
-![x_distance3](https://github.com/ianpaga/N_body_problem/assets/57350668/1504abaa-7e07-4211-85b3-2593b3c76d0b)
 ![error_difference](https://github.com/ianpaga/N_body_problem/assets/57350668/831aeb93-f0f7-4e4f-a3dc-ea2cf5d9767d)
 
 ## Requirements:
