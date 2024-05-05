@@ -8,6 +8,7 @@ The latter computes the total force acting on all particles and then passes it o
 ## Figures:
 
 ![full_solarsystem](https://github.com/ianpaga/N_body_problem/assets/57350668/90325cc9-fe12-4dcb-8d6c-fea59d4a68a5)
+![error](https://github.com/ianpaga/N_body_problem/assets/57350668/6e8e7909-d7c6-4f06-a11c-fc14ee4804a0)
 ![inner_planets](https://github.com/ianpaga/N_body_problem/assets/57350668/b4da76cf-971d-4119-b916-9abddab5d5f3)
 ![positions_planets](https://github.com/ianpaga/N_body_problem/assets/57350668/166da78d-0e63-4b76-8ac8-59b6466b8f87)
 ![sun_orbit](https://github.com/ianpaga/N_body_problem/assets/57350668/885200da-9ede-414c-89f1-a6f7de44b050)
@@ -16,7 +17,6 @@ The latter computes the total force acting on all particles and then passes it o
 ![x_distance2](https://github.com/ianpaga/N_body_problem/assets/57350668/f0ac4e7d-faa9-44cb-8c67-de30c18301a8)
 ![x_distance3](https://github.com/ianpaga/N_body_problem/assets/57350668/1504abaa-7e07-4211-85b3-2593b3c76d0b)
 ![error_difference](https://github.com/ianpaga/N_body_problem/assets/57350668/831aeb93-f0f7-4e4f-a3dc-ea2cf5d9767d)
-![error](https://github.com/ianpaga/N_body_problem/assets/57350668/6e8e7909-d7c6-4f06-a11c-fc14ee4804a0)
 
 ## Requirements:
 
